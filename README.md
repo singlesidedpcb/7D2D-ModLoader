@@ -58,7 +58,8 @@ Manually deleting these folders is also supported; the script will detect missin
 ## Usage notes
 - Ensure you have enough free space for a full game copy plus the mod pack.
 - Custom files and folders in the Mods directory will be safe as long as their name doesnt conflict with something in the Mod Pack
-
+- A new Game Copy, Local Mod Repo and settings.json are created per mod based on the `$modName` used in the script.
+  
 ## Screenshots
 ![Main window](images/001.jpg)  
 ![Select version](images/002.jpg) ![Download progress](images/003.jpg)  
