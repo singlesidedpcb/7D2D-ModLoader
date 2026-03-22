@@ -150,7 +150,8 @@ function Update-UpdateNotification {
 }
 
 # ==================== Main Execution Start ====================================
-Wriet-Host "Welcome to the "
+Write-Host "Welcome to the 7DTD mod downloader!"
+Write-Host "all robocopy and git output will be here"
 $gitCMD = Get-GitCommand
 $settings = Load-Settings
 
