@@ -64,6 +64,11 @@ Manually deleting these folders is also supported; the script will detect missin
 ![Select version](images/002.jpg) ![Download progress](images/003.jpg)  
 ![Update notice](images/004.jpg)
 
+## Other
+- The intention for this is to be used with 7 Days to Die but it should support any Steam Game that has Mod Packs hosted on Git
+- All important settings are at the top of the script, easily editable for any game. the only exception is the Mods path is hard coded.
+- If i learn of other games this can work for that store mods in a different path, i'll edit the script to make the Mods path a variable.
+
 ## License
 MIT License, see LICENSE file
 Copyright (c) 2026 SingleSidedPCB
